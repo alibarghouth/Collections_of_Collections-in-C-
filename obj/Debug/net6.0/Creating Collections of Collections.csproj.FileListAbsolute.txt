@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Creating Collections of Collections\bin\Debug\net6.0\Creating Collections of Collections.exe
+C:\Users\user\source\repos\Creating Collections of Collections\bin\Debug\net6.0\Creating Collections of Collections.deps.json
+C:\Users\user\source\repos\Creating Collections of Collections\bin\Debug\net6.0\Creating Collections of Collections.runtimeconfig.json
+C:\Users\user\source\repos\Creating Collections of Collections\bin\Debug\net6.0\Creating Collections of Collections.dll
+C:\Users\user\source\repos\Creating Collections of Collections\bin\Debug\net6.0\Creating Collections of Collections.pdb
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.AssemblyInfo.cs
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.dll
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\refint\Creating Collections of Collections.dll
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.pdb
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\Creating Collections of Collections.genruntimeconfig.cache
+C:\Users\user\source\repos\Creating Collections of Collections\obj\Debug\net6.0\ref\Creating Collections of Collections.dll
